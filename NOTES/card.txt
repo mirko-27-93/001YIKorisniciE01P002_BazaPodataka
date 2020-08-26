@@ -1,0 +1,9 @@
+УЛОГЕ КОРИШТЕЊА БАЗЕ ПОДАТАКА
+
+yimp : SERVICE-TEST  : E01P002-E02003
+yi   : BASIC USER DB : E01P002
+ip   : STUDIRANJE-PROGRAMIRANJE : E01P001 : PROJEKTNI ZADATAK
+
+yatospace : YATOSPACE
+ieee 	  : IEEE 
+yi 		  : YI - GENERAL BAP

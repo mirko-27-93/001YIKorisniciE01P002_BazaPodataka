@@ -1,0 +1,2 @@
+username,firstname,secondname,emailaddress,passwordhash,country,city,telephone,profile_image_path,user_image_path,country_flag_image_path,notification_webapp_supported,notification_email_supported,short_description,user_session_control
+marko,Марко,Марковић,marko.markovic@gmail.com,A3KcRtr3KUMLhdc0Yp/u6A==$xGlkpv5pXrlQmAg1PkasFN6Tvk5iMN1mP4+4/QTiO64=,NULL,NULL,NULL,NULL,NULL,NULL,0,0,NULL,NULL

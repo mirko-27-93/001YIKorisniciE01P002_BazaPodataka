@@ -1,0 +1,6 @@
+username,firstname,secondname,emailaddress,passwordhash,country,city,telephone,profile_image_path,user_image_path,notification_webapp_supported,notification_email_supported,country_flag_image_path,short_description,user_session_control
+marko,Марко,Марковић,marko.markovic@gmail.com,m6pANMZc7Ifspxe5zjMM1w==$QUUJZxWOZTBrFyeljJevGCmXVKNKDsafjdkThRfbRyA=,Iceland,"Улица Фјорд, 2
+Рејкјавик",065/838-998,4824014594_great-spotted-woodpecker-on-silver-birch-flickr-tony-cox.jpg,2761217186_41dfe856cbfcf2a97978ee60a417312e.jpg,1,1,IS.png,"Играч видеоигара. 
+Инжењер за софтвер.
+Координатор за стандарде и савремености.",1
+mitar,Митар,Митровић,mitar.mitrovic@gmail.com,pxHsikmdCkKWYZA74UsseQ==$fzQT6IU8Shv8hU1d4uJ2oR9fWLL/ptzWHIAeHEn/Vvg=,Switzerland,,,NULL,NULL,1,1,CH.png,,1
